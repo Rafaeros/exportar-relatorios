@@ -38,10 +38,19 @@ git clone https://github.com/Rafaeros/exportar-relatorios.git
 cd exportar-relatorios
 ```
 
+### Crie o ambiente virtual:
+
+```bash
+python -m venv venv
+Linux: source venv/bin/activate
+Windows: venv/Scripts/activate
+```
+
+
 ### Instale as dependências:
 
 ```bash
-pip install -r requirements.txt
+pip install -r pyproject.toml
 ```
 
 ### Execute o script principal:
