@@ -34,8 +34,6 @@ exportar-relatorios/
 ### Clone o repositório:
 
 ```bash
-Copiar
-Editar
 git clone https://github.com/Rafaeros/exportar-relatorios.git
 cd exportar-relatorios
 ```
@@ -43,8 +41,6 @@ cd exportar-relatorios
 ### Instale as dependências:
 
 ```bash
-Copiar
-Editar
 pip install -r requirements.txt
 ```
 
